@@ -6,7 +6,7 @@ The name and github id's of the group members of the project:
 
 - Neel samirkumar Shah (Github Id- neelshah27)
 
-- Dev rajivkumar Thaker (Github Id- devthaker)
+- Dev Thaker (Github Id- enkryptonian)
 
 - Alam Khan ((Github Id- xEVgit))
 
